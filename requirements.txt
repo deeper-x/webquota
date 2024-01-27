@@ -1,0 +1,10 @@
+async-timeout==4.0.3
+flake8==7.0.0
+hiredis==2.3.2
+mccabe==0.7.0
+mypy==1.8.0
+mypy-extensions==1.0.0
+pycodestyle==2.11.1
+pyflakes==3.2.0
+redis==5.0.1
+typing_extensions==4.9.0

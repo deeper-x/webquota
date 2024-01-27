@@ -1,4 +1,4 @@
-#!/home/justorius/pyprojs/webquota/bin/python3
+#!/home/justorius/pyprojs/webquota/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
